@@ -47,5 +47,14 @@ Note ,when doing float ,use .. like 1 2 / ..
 "Finding area,enter 2 number \n" .
 * .
  ;
-5 6 Action
+5 6 Action 
 ```
+## if (strcmp(s1,s2)==1) ===>
+```
+"hi"=>s1
+"bye"=>s2
+"s1" "s2" SAME? .
+```
+## a=1; ===>
+```
+"1"=>a
