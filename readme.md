@@ -1,3 +1,7 @@
+# Note for smojo,may help you to learn smojo .
+*You need to have some basic in C
+
+
 ## Switch ... Case --->
 
 
