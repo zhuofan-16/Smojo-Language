@@ -62,3 +62,8 @@ Note ,when doing float ,use .. like 1 2 / ..
 ## a=1; ===>
 ```
 "1"=>a
+```
+## Time Module 
+```
+now 480 "dd MMM yyyy HH:mm" format-time .
+```
